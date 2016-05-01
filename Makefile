@@ -2,7 +2,7 @@
 #
 #      filename:  Makefile
 #
-#   description:  Makefile for Project 3 part 1
+#   description:  Makefile for Project 3 part 3
 #
 #        author:  D'Arcy, Arlen  
 #      login id:  FA_15_CPS356_21
@@ -15,6 +15,7 @@
 #           due:  November 19, 2015
 #
 #******************************************************************************/
+
 all:
 	javac *.java
 
